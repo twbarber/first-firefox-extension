@@ -12,7 +12,7 @@
   
     "content_scripts": [
       {
-        "matches": ["*://*.espn.com/*"],
+        "matches": ["*://*.mozilla.org/*"],
         "js": ["borderify.js"]
       }
     ]
